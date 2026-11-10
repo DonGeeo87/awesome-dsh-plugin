@@ -1,0 +1,7 @@
+url: https://github.com/DonGeeo87/cg-panel
+name: DonGeeo87/cg-panel
+category: ui
+icon: https://raw.githubusercontent.com/DonGeeo87/cg-panel/main/assets/icon-180.png
+tarball: https://github.com/DonGeeo87/cg-panel/releases/latest/download/cg-panel.tgz
+description:
+  en: 'Startup command panel for DSH on Windows: which project to pick up next, machine health, backup freshness and fleet status, with the fleet and backup blocks enabled through configuration.'
